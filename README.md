@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ugur Hikmet Köse</h1>
-<h3 align="center">I'm a full stack typescript developer (Mainly Frontend)</h3>
+<h3 align="center">I'm a Frontend Developer</h3>
 
 - 👨‍💻 All of my projects are available at [ugurkose.dev](ugurkose.dev)
 
